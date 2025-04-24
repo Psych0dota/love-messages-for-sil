@@ -88,7 +88,7 @@ export default function LoveMessagesPage() {
       </main>
 
       <footer className="p-6 text-center text-pink-700">
-        <p>Gemaakt met liefde voor mijn Sil, de meest geweldige bbi in mijn wereld</p>
+        <p>Gemaakt met HEEL veel liefde voor mijn kleine bbi, Love you Sil</p>
       </footer>
     </div>
   )
